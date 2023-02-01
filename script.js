@@ -25,7 +25,7 @@ f.addEventListener('submit',(e)=>{
 Giant Waterproofing Co.
 </h2>
 <div class="reg-date">
-    <div class="reg-num">GWC/R/5526/2022</div>
+    <div class="reg-num">GWC/R/5526/2023</div>
     <div class="date"><span class="dd">${(date.getDate()<10)?'0'+date.getDate():date.getDate()}</span>.<span class="mm">${((date.getMonth()+1)<10)?'0'+(date.getMonth()+1):date.getMonth()+1}</span>.<span class="yyyy">${date.getFullYear()}</span></div>
 </div>
 <div class="name-add">
@@ -75,7 +75,7 @@ Giant Waterproofing Co.
     <li>Clean the surface by rubbing with a wire brush & other mechanical tools to remove dust and other
         loose materials. Repairing of Cracks work will be carried out as per requirement on the Roof by
         RainPrime with cement.</li>
-    <li>Apply 1st coating of Giant RainPrime with Cement..</li>
+    <li>Apply 1st coating of Giant RainPrime with Cement.</li>
     <li>Apply 2nd coating of Giant SafeCoat with dilution.</li>
     <li>Apply 3rd coating of Giant SafeCoat without dilution.</li>
 </ol>
