@@ -1,0 +1,169 @@
+*{  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    display: block;
+    width: 100%;
+}
+div.form{
+    width: fit-content;
+    margin: auto;
+}
+main{
+    width: 100%;
+
+    text-align: justify;
+    padding: 10px 20px;
+}
+main .logo img{
+    width: 500px;
+}
+main .logo{
+    width: fit-content;
+    margin: auto;
+}
+main .company-name{
+    margin-top: 50px;
+    text-align: center;
+}
+main .reg-date{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+main .name-add{
+    margin-top: 60px;
+}
+.total-amount,.Rate-heading,main .title , main .salutation, h2.area-detail-heading{
+margin-top: 20px;
+}
+
+main .msg p p{
+    margin-top: 20px;
+    text-align: justify;
+}
+.chem-des,.area-details,.Rate-details{
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.chem-des dt{
+    font-weight: bold;   
+    margin-top: 10px;
+}
+.chem-des dd{
+    margin-left: 80px;
+}
+.procedure,.company-details{
+    
+    margin-top: 50px;
+}
+table{
+    border-collapse: collapse;
+    text-align: center;
+    margin: auto;
+    margin-top:50px;
+    width: 40%;
+    
+}
+table td{
+    padding: 10px;
+} 
+.t-and-d{
+    margin-top: 20px;
+    width: 100%;
+}
+.t-and-d ol{
+    margin-left: 50px;
+    text-align: justify;
+}
+.t-and-d ol ol{
+    list-style-type:lower-alpha;
+}
+.t-and-d ol dt{
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.t-and-d ol dd{
+    margin-left: 50px;
+}
+.qr-code{
+    margin-top: -120px;;
+    float: right;
+}
+.qr-code img{
+    width: 200px;
+
+}
+.contact,.footer{
+    margin-top: 30px;
+}
+.contact p{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 200px;
+}
+/* styling form  */
+
+
+div.form form{
+    width: 400px;
+    display: flex;
+    margin: auto;
+    margin-bottom: 20px;
+    flex-direction:  column;
+    box-shadow: rgba(0,0,0,0.05) 0px 6px 24px 0px,rgba(0,0,0,0.08) 0px 0px 0px 1px;
+    padding: 10px 20px;
+}
+div.form label{
+    margin-top: 20px;
+    font-weight: bold;
+}
+div.form button{
+    margin-top: 20px;
+    padding: 10px;
+}
+div.form input{
+    display: block;
+    height: 40px;
+}
+div.form h2{
+    text-align: center;
+}
+
+.btn{
+    width: 100%;
+    text-align: right;
+}
+
+.btn button{
+  padding: 5px 15px;
+}
+
+@media only screen and (max-width:600px){
+    *{
+        
+        box-sizing: border-box;
+    }
+    main{
+        width: 100%;
+        padding: 10px 20px;
+    }
+    main .logo{
+        width: 200px;
+    }
+    main .logo img{
+        width: 200px;
+    }
+    div.form form{
+        width: 300px;
+    }
+    .qr-code img{
+        width: 150px;
+    }
+    .qr-code{
+        margin-top: -50px;;
+    }
+}
