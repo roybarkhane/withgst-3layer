@@ -125,7 +125,7 @@ Giant Waterproofing Co.
                
                 <li>
                     <dt>Payment Terms:</dt>
-                    <dd><strong>50 % Advance</strong> along with work order. Balance Amount complete work.</dd>
+                    <dd>Work to commence against firm work order along with <strong>90 % Advance</strong>  along with work order. A balance payment of 10% is to be made immediately upon completion of work.</dd>
                 </li>
                 <li>
                     <dt>Transport Fee Extra</dt>
