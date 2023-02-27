@@ -73,8 +73,7 @@ Giant Waterproofing Co.
 <p class="description">
 <ol style="margin-left: 50px; line-height:1.8rem; font-weight:600; font-style:italic;">
     <li>Clean the surface by rubbing with a wire brush & other mechanical tools to remove dust and other
-        loose materials. Repairing of Cracks work will be carried out as per requirement on the Roof by
-        RainPrime with cement.</li>
+        loose materials. Repairing of Cracks work will be carried out as per requirement on the Roof</li>
     <li>Apply 1st coating of Giant RainPrime with Cement.</li>
     <li>Apply 2nd coating of Giant SafeCoat with dilution.</li>
     <li>Apply 3rd coating of Giant SafeCoat without dilution.</li>
@@ -118,11 +117,14 @@ Giant Waterproofing Co.
     </tbody>
 </table>
 <div class="t-and-d">
-    <h2>Terms and Conditions</h2>
+  <h2>Terms and Conditions</h2>
     <p>
         <dl>
             <ol>
-               
+                <li>
+                    <dt>Taxes:</dt>
+                    <dd><strong>18 % GST Extra.</strong></dd>
+                </li>
                 <li>
                     <dt>Payment Terms:</dt>
                     <dd>Work to commence against firm work order along with <strong>90 % Advance</strong>  along with work order. A balance payment of 10% is to be made immediately upon completion of work.</dd>
