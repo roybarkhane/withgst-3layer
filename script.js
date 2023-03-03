@@ -42,7 +42,7 @@ Giant Waterproofing Co.
 <p style="margin-top:20px;">
     <strong> Giant’s 3 Layer Waterproofing treatment </strong>is a Waterproofing technique designed and
     developed for a
-    complete <strong>waterproofing solution with a leakage-free warranty for 3 years.</strong> This system
+    complete <strong>waterproofing solution with a leakage-free warranty for 5 years.</strong> This system
     can be applied for
     Waterproofing on RCC surfaces, Side Walls, Asbestos sheets, Tin Sheets, Water Tanks, etc
 </p>
